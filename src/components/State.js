@@ -11,7 +11,7 @@ const State = () => {
   //setLikes -> setter -> whenever you want to modify the value
 
   // console.log("counter", counter)
-  console.log("liked", like)
+  // console.log("liked", like)
 
   const decrement = () => {
     setCounter(counter - 1)

@@ -12,7 +12,7 @@ const data = [
 
 const Teachers = () => {
 
-  const [ hide, setHide ] = useState(false)
+  const [ hide, setHide ] = useState(true)
 
   const toggleHide = () => {
     setHide(!hide)
